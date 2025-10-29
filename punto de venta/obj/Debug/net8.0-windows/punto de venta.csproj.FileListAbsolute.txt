@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\punto de venta\punto de venta\bin\Debug\net8.0-windows\punto de venta.exe
+C:\Users\usuario\source\repos\punto de venta\punto de venta\bin\Debug\net8.0-windows\punto de venta.deps.json
+C:\Users\usuario\source\repos\punto de venta\punto de venta\bin\Debug\net8.0-windows\punto de venta.runtimeconfig.json
+C:\Users\usuario\source\repos\punto de venta\punto de venta\bin\Debug\net8.0-windows\punto de venta.dll
+C:\Users\usuario\source\repos\punto de venta\punto de venta\bin\Debug\net8.0-windows\punto de venta.pdb
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\punto_de_venta.Form1.resources
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\punto de venta.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\punto de venta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\punto de venta.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\punto de venta.AssemblyInfo.cs
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\punto de venta.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\punto de venta.dll
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\refint\punto de venta.dll
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\punto de venta.pdb
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\punto de venta.genruntimeconfig.cache
+C:\Users\usuario\source\repos\punto de venta\punto de venta\obj\Debug\net8.0-windows\ref\punto de venta.dll
