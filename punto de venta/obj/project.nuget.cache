@@ -1,15 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OQzDc/U20l8=",
+  "dgSpecHash": "X+HDQUab59Y=",
   "success": true,
-  "projectFilePath": "/home/juan/Programming/c#/proyecto/punto de venta/punto de venta.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\avances\\punto de venta\\punto de venta.csproj",
   "expectedPackageFiles": [
-    "/home/juan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
-    "/home/juan/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.logging.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
-    "/home/juan/.nuget/packages/npgsql/10.0.0-rc.1/npgsql.10.0.0-rc.1.nupkg.sha512",
-    "/home/juan/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0-rc.1.25451.107/system.diagnostics.diagnosticsource.10.0.0-rc.1.25451.107.nupkg.sha512",
-    "/home/juan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
-    "/home/juan/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-rc.1.25451.107\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0-rc.1.25451.107\\microsoft.extensions.logging.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\npgsql\\10.0.0-rc.1\\npgsql.10.0.0-rc.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0-rc.1.25451.107\\system.diagnostics.diagnosticsource.10.0.0-rc.1.25451.107.nupkg.sha512"
   ],
   "logs": []
 }
