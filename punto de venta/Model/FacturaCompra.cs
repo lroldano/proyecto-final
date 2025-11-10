@@ -5,4 +5,4 @@ public record FacturaCompra(
     int idProveedor, 
     int idProducto, 
     int cantidad,
-    date fecha);
+    DateTime fecha);

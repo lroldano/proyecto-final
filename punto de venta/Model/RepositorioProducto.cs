@@ -103,7 +103,7 @@ public class RepositorioProducto
     }
     
     
-    public void CrearProducto(int idProducto, string nombre, int cantidad, float precioBase, int valorIva, float precioTotal, int descuento, int idProveedor)
+    public void CrearProducto(string nombre, int cantidad, float precioBase, int valorIva, float precioTotal, int descuento, int idProveedor)
     {
         string query = @"INSERT INTO productos VALUES 
                      nombre = @nombre, cantidad = @cantidad, precio_base = @precioBase, valor_iva = @valorIva, valor_total = @precioTotal, descuento = @descuento, id_proveedor = @idProveedor";
