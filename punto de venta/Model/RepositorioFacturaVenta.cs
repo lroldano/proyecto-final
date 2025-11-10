@@ -145,7 +145,7 @@ public class RepositorioFacturaVenta
     //Eliminar
     public void EliminarFacturaVenta(int idFacturaVenta)
     {
-        string query  = @"DELETE FROM facturas_ventas WHERE id_compra = @idVenta";
+        string query  = @"DELETE FROM facturas_ventas WHERE id_compra = @id";
         
         
         using (var conn = _connectionProvider.GetConnection())
